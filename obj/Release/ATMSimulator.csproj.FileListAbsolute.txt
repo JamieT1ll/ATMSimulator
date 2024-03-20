@@ -1,0 +1,11 @@
+C:\Users\j4mie\source\repos\ATMSimulator2\bin\Release\ATMSimulator.exe.config
+C:\Users\j4mie\source\repos\ATMSimulator2\bin\Release\ATMSimulator.exe
+C:\Users\j4mie\source\repos\ATMSimulator2\bin\Release\ATMSimulator.pdb
+C:\Users\j4mie\source\repos\ATMSimulator2\obj\Release\ATMSimulator.csproj.AssemblyReference.cache
+C:\Users\j4mie\source\repos\ATMSimulator2\obj\Release\ATMSimulator.Form1.resources
+C:\Users\j4mie\source\repos\ATMSimulator2\obj\Release\ATMSimulator.SimulatorOptions.resources
+C:\Users\j4mie\source\repos\ATMSimulator2\obj\Release\ATMSimulator.Properties.Resources.resources
+C:\Users\j4mie\source\repos\ATMSimulator2\obj\Release\ATMSimulator.csproj.GenerateResource.cache
+C:\Users\j4mie\source\repos\ATMSimulator2\obj\Release\ATMSimulator.csproj.CoreCompileInputs.cache
+C:\Users\j4mie\source\repos\ATMSimulator2\obj\Release\ATMSimulator.exe
+C:\Users\j4mie\source\repos\ATMSimulator2\obj\Release\ATMSimulator.pdb
